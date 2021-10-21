@@ -5,6 +5,7 @@ namespace FleetManager.WebAPI.Data
 {
     public interface IDataContext
     {
+        //ved at lade dette stå blankt kan interfacen bruges til API og databse
 
     }
  
